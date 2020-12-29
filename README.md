@@ -4,11 +4,8 @@
 **EstrellaSpaans/EstrellaSpaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🌈 Visual Content Creator
-
 📺 Marketing Whiz
-
 📊 Data Adventurist
-
 🤖 Technology Enthusiast 
 
 **"Make it possible".**
@@ -17,5 +14,5 @@ I am an outgoing Business Analytics Master student with a passion for branding, 
 
 - 🔭 I’m currently working on some *Online Virtual Data Science Internships* projects
 - 🤓 I’m currently learning *Machine learning*
-- 🤔 I’m looking for an entry level position as a *Marketing  / Data Analys*t
+- 🤔 I’m looking for an entry level position as a *Marketing  / Data Analyst*
 - ⚡ Fun fact: Love the Wizarding World of Harry Potter, listening to music, watching series on Netflix
