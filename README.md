@@ -5,7 +5,7 @@
 📊 Data Adventurist
 🤖 Technology Enthusiast 
 
-**"Make it possible".**
+Favorite Quote: **"Make it possible".**
 
 I am an outgoing *Business Analytics Master student (class 2021)* with a passion for branding, analytics, (UX) design, content, and (disruptive) technology. 
 
