@@ -9,8 +9,7 @@ Favorite Quote: **"Make it possible".**
 
 I am an outgoing *Business Analytics Master student (class 2021)* with a passion for branding, analytics, (UX) design, content, and (disruptive) technology. 
 
-- I’m currently working on some *Online Virtual Data Science Internships* projects
-- I’m currently learning *Machine learning*
+- I’m currently learning *Machine learning and webscraping*
 - I’m looking for an entry level position as a *Marketing  / Data Analyst*
 - Fun fact: Love the Wizarding World of Harry Potter, listening to music, watching series. 
 <!--
