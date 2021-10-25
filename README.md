@@ -10,7 +10,7 @@ Favorite Quote: **"Make it possible".**
 I am an outgoing *Business Analytics Master student (class 2021)* with a passion for branding, analytics, (UX) design, content, and (disruptive) technology. 
 
 - I’m currently learning *Machine learning and webscraping*
-- I’m looking for an entry level position as a *Marketing  / Data Analyst*
+- I’m looking for a position as a *Marketing  / Data Analyst*
 - Fun fact: Love the Wizarding World of Harry Potter, listening to music, watching series. 
 <!--
 **EstrellaSpaans/EstrellaSpaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
