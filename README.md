@@ -1,8 +1,7 @@
 
-![GitHub](https://github.com/EstrellaSpaans/EstrellaSpaans/assets/64385174/e5740fcf-863c-4bfb-a58e-911497bb1ae1)
+<img width="1500" alt="GitHub_Banner" src="https://github.com/EstrellaSpaans/EstrellaSpaans/assets/64385174/a734610d-9e9f-4473-8e69-ef01dab01bb4">
 
-
-I'm Estrella, a Dutch analyst and marketing generalist, and a lawful permanent resident in the United States. 
+My name is Estrella. I am a lawful permanent resident of the United States and a Dutch analyst and marketing generalist. 
 
 I possess over three years of experience as an analytics professional and over four years in marketing. My expertise centers around leveraging data insights to foster business growth and improve operational efficiency. I am presently broadening my expertise in machine learning and DBT.
 
