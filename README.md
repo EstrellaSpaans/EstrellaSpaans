@@ -9,10 +9,10 @@
 - Analyst with 3+ years of experience.
 - Marketing Generalist with 4+ years of experience.
 - Currently broadening my expertise in machine learning and DBT.
-- Completed my Master's degree in Business Analytics in 2021
+- Completed my Master's degree in Business Analytics in 2021.
 - Completed my Master's degree in International Marketing in 2020.
-- Favorite Quote: **"Make it possible"**
-- I am passionate about **branding**, **analytics**, **UX design**, **content**, and **technology**.
+- Favorite Quote: *"Make it possible"*
+- I am passionate about branding, analytics, UX design, content, and technologies.
 
 If you have a moment, please check out my GitHub projects. You'll find a variety of university and personal projects I've been working on.
 
