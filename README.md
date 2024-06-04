@@ -1,5 +1,9 @@
 
-# About Me
+![GitHub](https://github.com/EstrellaSpaans/EstrellaSpaans/assets/64385174/e5740fcf-863c-4bfb-a58e-911497bb1ae1)
+
+
+I'm Estrella, a Dutch analyst and marketing generalist, and a lawful permanent resident in the United States. 
+
 I possess over three years of experience as an analytics professional and over four years in marketing. My expertise centers around leveraging data insights to foster business growth and improve operational efficiency. I am presently broadening my expertise in machine learning and DBT.
 
 I obtained my master's degree in Business Analytics in 2021 and my master's in International Marketing in 2020. I am keenly interested in branding, analytics, UX design, content, and technology.
