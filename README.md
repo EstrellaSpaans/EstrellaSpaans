@@ -1,4 +1,4 @@
-<img width="1500" alt="GitHub_Banner" src="https://github.com/EstrellaSpaans/EstrellaSpaans/assets/64385174/a734610d-9e9f-4473-8e69-ef01dab01bb4">
+<img width="1500" alt="GitHub_Banner" src="https://github.com/EstrellaSpaans/EstrellaSpaans/assets/64385174/032a84a7-9e5c-4652-9fd2-ceae9d5b849a">
 
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
